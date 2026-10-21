@@ -73,6 +73,9 @@ ________________________________________
 ## Ping Results:
 <img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/7ae6727b-e3cf-4679-86b1-8cea419b4a23" />
 
+<img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/8c52c27a-b6dd-474d-929a-b040a0392c8c" />
+
+
 
 ________________________________________
 # Result
